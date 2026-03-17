@@ -25,7 +25,7 @@ export default function Header() {
     >
       <div className="max-w-5xl mx-auto flex items-center justify-between px-4 py-4">
         <a href="#" className="text-xl font-semibold tracking-tight text-white">
-          &lt;Fresher /&gt;
+          &lt;Sumit /&gt;
         </a>
 
         <nav className="hidden md:flex gap-6 text-slate-200">
